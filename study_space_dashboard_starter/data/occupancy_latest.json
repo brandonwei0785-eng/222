@@ -1,0 +1,62 @@
+[
+  {
+    "space_id": "S1",
+    "occupied": 1,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S2",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S3",
+    "occupied": 1,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S4",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S5",
+    "occupied": 1,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S6",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S7",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S8",
+    "occupied": 1,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S9",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S10",
+    "occupied": 1,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S11",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  },
+  {
+    "space_id": "S12",
+    "occupied": 0,
+    "ts_utc": "2025-10-19T10:30:00Z"
+  }
+]

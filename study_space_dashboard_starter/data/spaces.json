@@ -1,0 +1,110 @@
+[
+  {
+    "space_id": "S1",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 15.0,
+    "y": 20.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S2",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 25.0,
+    "y": 22.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S3",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 35.0,
+    "y": 25.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S4",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 45.0,
+    "y": 28.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S5",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 55.0,
+    "y": 30.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S6",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "x": 65.0,
+    "y": 34.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S7",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "room",
+    "x": 20.0,
+    "y": 60.0,
+    "capacity": 4
+  },
+  {
+    "space_id": "S8",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "room",
+    "x": 30.0,
+    "y": 62.0,
+    "capacity": 6
+  },
+  {
+    "space_id": "S9",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "room",
+    "x": 40.0,
+    "y": 64.0,
+    "capacity": 6
+  },
+  {
+    "space_id": "S10",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "pc",
+    "x": 70.0,
+    "y": 40.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S11",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "pc",
+    "x": 78.0,
+    "y": 44.0,
+    "capacity": 1
+  },
+  {
+    "space_id": "S12",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "pc",
+    "x": 86.0,
+    "y": 48.0,
+    "capacity": 1
+  }
+]

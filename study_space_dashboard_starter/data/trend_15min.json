@@ -1,0 +1,32 @@
+[
+  {
+    "weekday": 1,
+    "time_bucket": "10:00",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "occ_rate_mean": 0.52,
+    "occ_rate_p25": 0.35,
+    "occ_rate_p50": 0.55
+  },
+  {
+    "weekday": 1,
+    "time_bucket": "10:15",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "occ_rate_mean": 0.58,
+    "occ_rate_p25": 0.41,
+    "occ_rate_p50": 0.6
+  },
+  {
+    "weekday": 1,
+    "time_bucket": "10:30",
+    "building_id": "BHB",
+    "floor_id": "BHB_1",
+    "space_type": "desk",
+    "occ_rate_mean": 0.61,
+    "occ_rate_p25": 0.45,
+    "occ_rate_p50": 0.62
+  }
+]
